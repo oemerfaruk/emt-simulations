@@ -8,7 +8,7 @@ An interactive 3D electromagnetic wave polarization visualization tool built wit
 
 ## 🌐 Live Demo
 
-> Open [simulation.seoem.co](simulation.seoem.co) in any modern browser — no build step required.
+> Open [simulation.seoem.co](httos://simulation.seoem.co) in any modern browser — no build step required.
 
 ---
 
